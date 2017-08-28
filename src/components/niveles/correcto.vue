@@ -3,7 +3,7 @@
 		<div class="contres">
 			<h2 class="titulores">!!! Correcto !!!</h2>
 			<div class="imgres">
-				<img src="../../assets/true.svg" alt="">
+				<img src="https://moncada92.github.io/modelo-OSI/dist/true.svg" alt="">
 			</div>
 			<div class="contButton btn-res">
 				<router-link :to="{name:'servicios'}">Siguiente Nivel</router-link>

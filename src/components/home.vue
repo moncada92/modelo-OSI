@@ -4,7 +4,7 @@
     
 
     <div class="contlogo">
-      <img src="../assets/logoRedes-02.svg">
+      <img src="https://moncada92.github.io/modelo-OSI/dist/logoRedes-02.svg">
     </div>  
 
     <h1 class="title">{{ msg }}</h1> 

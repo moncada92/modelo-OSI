@@ -6,7 +6,7 @@
 				
 					<transition name="desplacesss">
 						<div class="submenu" v-show="showModal">
-							<img src="../assets/logoRedes-02.svg" alt="">
+							<img src="https://moncada92.github.io/modelo-OSI/dist/logoRedes-02.svg" alt="">
 							<ul>
 								<router-link :to="{name:'home'}">
 									<li>Regresar</li>

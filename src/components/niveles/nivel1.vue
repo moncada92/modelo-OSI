@@ -30,7 +30,7 @@
   	<div class="continput">
   		<label for="incorrecto1">
   				<div class="imagen">
-  					<img src="../../assets/img1-02.svg" alt="">
+  					<img src="https://moncada92.github.io/modelo-OSI/dist/img1-02.svg" alt="">
   				</div>
   				Escribir en un Programa
   		</label>	
@@ -39,7 +39,7 @@
   	<div class="continput">
   		<label for="incorrecto2">
   				<div class="imagen">
-  					<img src="../../assets/img2-02.svg" alt="">
+  					<img src="https://moncada92.github.io/modelo-OSI/dist/img2-02.svg" alt="">
   				</div>
   				Abril una Aplicacion de PC
   		</label>	
@@ -48,7 +48,7 @@
   	<div class="continput">
   		<label for="correcto">
   				<div class="imagen">
-  					<img src="../../assets/img3-02.svg" alt="">
+  					<img src="https://moncada92.github.io/modelo-OSI/dist/img3-02.svg" alt="">
   				</div>
   				Definir protocolos para el intercambio de datos
   		</label>	
